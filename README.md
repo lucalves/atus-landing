@@ -14,6 +14,6 @@ cd atus-landing
 ## Apenas abra o arquivo index.html!
 ```
 
-## License
+## Licença
 
 Lucas Alves A. © Hiring Coders VTEX 2021
