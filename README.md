@@ -1,6 +1,6 @@
-# Atus Landing
+# Atus
 
-O Atus Landing é um projeto simples com uma landing page para o Hiring Coders VTEX 2021.
+O Atus é um projeto simples com uma landing page para o Hiring Coders VTEX 2021.
 
 ## Como rodar o projeto?
 
